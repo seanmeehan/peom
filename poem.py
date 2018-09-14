@@ -1,8 +1,8 @@
 
-first_word = "One"
-second_word = "begun"
-third_word = "Two"
-fourth_word = "new"
+first_word = raw_input('Please enter first word: ')
+second_word = raw_input('Please enter second word: ')
+third_word = raw_input('Please enter third word: ')
+fourth_word = raw_input('Please enter fourth word: ')
 
 print("When I was " + first_word + ",")
 print("I had just " + second_word + ".")
